@@ -15,8 +15,7 @@ footer_text: >
   © Copyright 2025 Heejin Jeong. Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme. Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
 keywords: Developer, Android, Frontend, Data # add your own keywords or leave empty
 lang: ko # the language of your site
-icon: 🎓 # the emoji used as the favicon
-
+icon: 💻
 # -----------------------------------------------------------------------------
 # URL & Repo Settings
 # -----------------------------------------------------------------------------
