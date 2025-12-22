@@ -2,96 +2,85 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
-    - name: Languages
-      value: English, German
+      value: Heejin Jeong
+    - name: Contact
+      value: euphoria02mint@gmail.com
+    - name: Location
+      value: Seoul, South Korea
+    - name: Summary
+      value: Undergraduate student in CSE at Ewha Womans University. Passionate about End-to-End development, from identifying user pain points to deploying production-ready applications.
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: Ewha Womans University
+      institution: Computer Science and Engineering
+      year: Current
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
-      description:
-        - Description 1.
-        - Description 2.
+        - Undergraduate Student
+        - Focusing on Android Native, System Software, and AI-driven development.
 
 - title: Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Academic Instructor
+      institution: Premium Education Academy, Seoul
+      year: 2024 - Present
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
+        - title: Specialized in Logic, World Geography, and Current Affairs for K-12 students.
           contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
-      description:
-        - Description 1.
-        - Description 2.
+            - Identified inefficiencies in analog rote memorization methods among digital-native students.
+            - Initiated the planning and development of a gamified educational app (Project "E-Learning") to solve these retention issues using quizzes and reward systems.
+            - Gained deep user empathy and domain knowledge in the EdTech sector.
 
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
-      description:
-
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
-
-- title: Open Source Projects
+- title: Projects
   type: time_table
   contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+    - title: Solo Android App Development (LBS & API)
+      institution: Personal Project
+      year: 2024
+      description:
+        - title: TypeScript & Android-based Location Service App
+          contents:
+            - <strong>Sole Developer:</strong> Managed entire lifecycle from planning to APK deployment.
+            - <strong>Tech Stack:</strong> TypeScript, Google Maps API, Overpass API, Weather API.
+            - Implemented complex asynchronous data processing and native device feature integration (storage, sharing).
+            - Successfully optimized build pipelines and deployed to physical devices.
 
-- title: Honors and Awards
-  type: time_table
-  contents:
-    - year: 1921
-      items:
-        - Nobel Prize in Physics
-        - Matteucci Medal
-    - year: 2029
-      items:
-        - Max Planck Medal
+    - title: BMW YIDP 2025 Competition
+      institution: Team Project
+      year: 2024
+      description:
+        - title: Top 10 Selection (Participation Prize)
+          contents:
+            - <strong>Role:</strong> Sole Developer in a team of 4.
+            - Prioritized core features under tight deadlines to deliver a stable, working prototype.
+            - Demonstrated rapid execution and problem-solving skills in a high-pressure environment.
 
-- title: Academic Interests
+- title: Technical Skills
   type: nested_list
   contents:
-    - title: Topic 1.
+    - title: Languages & Core
       items:
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
+        - Java, Python, Kotlin, C, C#, SQL
+        - JavaScript (ES6+), TypeScript, HTML/CSS
+    - title: Frameworks & Mobile
       items:
-        - Description 1.
-        - Description 2.
+        - Android Native (Kotlin/Java), Spring Boot, Node.js
+        - React Native, Expo
+    - title: Game & Interactive
+      items:
+        - Unity 2D/3D
+    - title: Tools & Infrastructure
+      items:
+        - Git, GitHub, VMware, Putty
+        - Figma, Canva (Design & Prototyping)
+        - Notion, Slack, Discord (Collaboration)
 
-- title: Other Interests
-  type: list
+- title: Certificates & Awards
+  type: time_table
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - title: BMW YIDP 2025
+      institution: Top 10 (Participation Prize)
+      year: 2024
+      description: Recognized for technical implementation and project feasibility.
