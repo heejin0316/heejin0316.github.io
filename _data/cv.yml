@@ -37,25 +37,25 @@
   type: time_table
   contents:
     - title: Solo Android App Development (LBS & API)
-      institution: Personal Project
+      institution: Team Project
       year: 2024
       description:
         - title: TypeScript & Android-based Location Service App
           contents:
+            - Top 10 Selection (Participation Prize)
             - <strong>Sole Developer:</strong> Managed entire lifecycle from planning to APK deployment.
             - <strong>Tech Stack:</strong> TypeScript, Google Maps API, Overpass API, Weather API.
             - Implemented complex asynchronous data processing and native device feature integration (storage, sharing).
             - Successfully optimized build pipelines and deployed to physical devices.
-
-    - title: BMW YIDP 2025 Competition
+            
+    - title: BMW Car Racing Game Project
       institution: Team Project
       year: 2024
-      description:
-        - title: Top 10 Selection (Participation Prize)
-          contents:
-            - <strong>Role:</strong> Sole Developer in a team of 4.
-            - Prioritized core features under tight deadlines to deliver a stable, working prototype.
-            - Demonstrated rapid execution and problem-solving skills in a high-pressure environment.
+      description
+       - title: Unity 3D-based Game
+         contents:
+           - Yes
+      
 
 - title: Technical Skills
   type: nested_list
