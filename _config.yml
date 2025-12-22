@@ -22,7 +22,7 @@ icon: 🎓 # the emoji used as the favicon
 # -----------------------------------------------------------------------------
 
 url: "https://heejin0316.github.io" # the base hostname & protocol for your site
-baseurl: "" # User site(heejin0316.github.io)는 baseurl이 비어있어야 합니다.
+baseurl: "" 
 last_updated: true # set to true if you want to display last updated in the footer
 impressum_path: # set to path to include impressum link in the footer
 back_to_top: true # set to false to disable the back to top button
