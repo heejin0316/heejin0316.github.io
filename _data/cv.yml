@@ -1,87 +1,87 @@
 - title: General Information
   type: map
   contents:
-    - name: Full Name
-      value: Heejin Jeong
-    - name: Contact
+    - name: 이름
+      value: 정희진
+    - name: 연락처
       value: euphoria02mint@gmail.com
-    - name: Location
-      value: Seoul, South Korea
-    - name: Summary
-      value: Undergraduate student in CSE at Ewha Womans University. Passionate about End-to-End development, from identifying user pain points to deploying production-ready applications.
+    - name: 위치
+      value: 서울특별시
+    - name: 소개
+      value: 이화여자대학교 컴퓨터공학과 재학 중입니다. 사용자의 불편함을 찾아내는 것부터 상용화 가능한 서비스 배포까지, End-to-End 개발 프로세스 전반에 열정을 가진 개발자입니다.
 
 - title: Education
   type: time_table
   contents:
-    - title: Ewha Womans University
-      institution: Computer Science and Engineering
-      year: Current
+    - title: 이화여자대학교
+      institution: 컴퓨터공학 전공
+      year: 재학 중
       description:
-        - Undergraduate Student
-        - Focusing on Android Native, System Software, and AI-driven development.
+        - 학부생 (전공 심화 과정)
+        - 안드로이드 네이티브(Android Native), 시스템 소프트웨어, AI 기반 개발 분야에 주력하고 있습니다.
 
 - title: Experience
   type: time_table
   contents:
-    - title: Academic Instructor
-      institution: Premium Education Academy, Seoul
-      year: 2024 - Present
+    - title: 학습 코칭 및 강사
+      institution: 프리미엄 에듀케이션 아카데미 (서울)
+      year: 2025 - 현재
       description:
-        - title: Specialized in Logic, World Geography, and Current Affairs for K-12 students.
+        - title: 초중고 대상 논리, 세계지리, 시사 전문 강사
           contents:
-            - Identified inefficiencies in analog rote memorization methods among digital-native students.
-            - Initiated the planning and development of a gamified educational app (Project "E-Learning") to solve these retention issues using quizzes and reward systems.
-            - Gained deep user empathy and domain knowledge in the EdTech sector.
+            - 디지털 네이티브 학생들에게 비효율적인 아날로그식 암기 학습법의 한계를 발견했습니다.
+            - 이를 해결하기 위해 퀴즈와 보상 시스템을 도입한 게이미피케이션 교육 앱(프로젝트 "E-Learning")을 직접 기획하고 개발을 주도했습니다.
+            - EdTech 분야의 도메인 지식을 쌓고 사용자의 니즈를 깊이 이해하는 경험을 했습니다.
 
 - title: Projects
   type: time_table
   contents:
-    - title: Solo Android App Development (LBS & API)
-      institution: Personal Project
-      year: 2024
+    - title: 안드로이드 위치 기반 서비스 앱 (LBS & API)
+      institution: 개인 프로젝트
+      year: 2025
       description:
-        - title: TypeScript & Android-based Location Service App
+        - title: TypeScript & Android 기반 앱 개발
           contents:
-            - <strong>Sole Developer:</strong> Managed entire lifecycle from planning to APK deployment.
-            - <strong>Tech Stack:</strong> TypeScript, Google Maps API, Overpass API, Weather API.
-            - Implemented complex asynchronous data processing and native device feature integration (storage, sharing).
-            - Successfully optimized build pipelines and deployed to physical devices.
+            - <strong>1인 개발:</strong> 기획부터 APK 배포까지 개발 전 과정을 단독으로 수행했습니다.
+            - <strong>기술 스택:</strong> TypeScript, Google Maps API, Overpass API, Weather API.
+            - 복잡한 비동기 데이터 처리 로직을 구현하고, 안드로이드 네이티브 기능(저장소, 공유하기 등)을 연동했습니다.
+            - 빌드 파이프라인을 최적화하여 실물 기기(Physical Device) 테스트 및 배포를 성공적으로 완료했습니다.
 
-    - title: BMW YIDP 2025 (Car Racing Game)
-      institution: Team Project
-      year: 2024
+    - title: BMW YIDP 2025 (카레이싱 게임)
+      institution: 팀 프로젝트
+      year: 2025
       description:
-        - title: Unity 3D-based Game Development
+        - title: Unity 3D 기반 게임 개발
           contents:
-            - <strong>Awards:</strong> Selected as Top 10 (Participation Prize).
-            - <strong>Role:</strong> Sole Developer in a team.
-            - Developed core gameplay mechanics using Unity 3D engine.
-            - Prioritized core features under tight deadlines to deliver a stable prototype.
+            - <strong>성과:</strong> Top 10 선정 (장려상 수상).
+            - <strong>역할:</strong> 팀 내 유일한 개발자 (전담 개발).
+            - Unity 3D 엔진을 활용하여 핵심 게임 플레이 메커니즘을 구현했습니다.
+            - 촉박한 마감 기한 내에 핵심 기능을 우선순위화하여 안정적인 프로토타입을 완성했습니다.
 
 - title: Technical Skills
   type: nested_list
   contents:
-    - title: Languages & Core
+    - title: 언어 (Languages & Core)
       items:
         - Java, Python, Kotlin, C, C#, SQL
         - JavaScript (ES6+), TypeScript, HTML/CSS
-    - title: Frameworks & Mobile
+    - title: 프레임워크 & 모바일
       items:
         - Android Native (Kotlin/Java), Spring Boot, Node.js
         - React Native, Expo
-    - title: Game & Interactive
+    - title: 게임 & 인터랙티브
       items:
         - Unity 2D/3D
-    - title: Tools & Infrastructure
+    - title: 도구 & 인프라
       items:
         - Git, GitHub, VMware, Putty
-        - Figma, Canva (Design & Prototyping)
-        - Notion, Slack, Discord (Collaboration)
+        - Figma, Canva (디자인 및 프로토타이핑)
+        - Notion, Slack, Discord (협업 툴)
 
 - title: Certificates & Awards
   type: time_table
   contents:
     - title: BMW YIDP 2025
-      institution: Top 10 (Participation Prize)
-      year: 2024
-      description: Recognized for technical implementation and project feasibility.
+      institution: Top 10 (장려상)
+      year: 2025
+      description: 기술적 구현의 완성도와 프로젝트의 사업적 실현 가능성을 인정받아 수상했습니다.
