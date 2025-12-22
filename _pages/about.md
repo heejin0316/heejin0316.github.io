@@ -1,20 +1,19 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: Undergraduate Student at Ewha Womans University
 
 profile:
   align: right
   image: heejin.jpg
-  image_circular: false # crops the image to make it circular
+  image_circular: false # 사진을 원형으로 자르지 않고 원본 비율 유지
   more_info: >
-    <p>82 010 9053 1945</p>
-    <p>euphoria02mint@gmail.com</p>
     <p>Seoul, South Korea</p>
+    <p>euphoria02mint@gmail.com</p>
 
 selected_papers: false # publications(논문) 목록 숨김
-social: true # 하단 소셜 아이콘은 유지 (원치 않으면 false로 변경)
+social: true # 하단 소셜 아이콘 유지
 
 announcements:
   enabled: false # news 목록 숨김
@@ -27,8 +26,31 @@ latest_posts:
   limit: 3
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+**Undergraduate Student at Ewha Womans University**
+**euphoria02mint@gmail.com | Seoul, South Korea**
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+안녕하세요, 이화여자대학교 컴퓨터공학 전공 학부생 **정희진**입니다.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+저는 **"아이디어를 실제로 배포 가능한 제품(Product)으로 완성하는 End-to-End 개발"**에 가장 큰 열정을 가지고 있습니다. 단순히 코드를 작성하는 것을 넘어, 기획 단계의 아이디어를 사용자에게 닿는 **실제 서비스로 구현하고 배포까지 완수하는 과정**을 중요하게 생각합니다.
+
+저의 핵심 경쟁력은 **문제를 끝까지 해결하는 집요함**과 **빠르게 학습하여 적용하는 실행력**입니다. 개발 과정에서 마주하는 불확실한 요구사항이나 기술적 이슈를 작게 쪼개어 원인을 분석하고, 최적의 솔루션을 찾아내 완성도를 높이는 과정을 즐깁니다.
+
+최근에는 **TypeScript 기반의 Android 앱 개발 프로젝트**를 주도하며 기획부터 APK 배포까지 전 과정을 경험했습니다. 이 프로젝트를 통해 다음과 같은 실무 역량을 확보했습니다.
+
+* **API 통합 및 데이터 처리 (API Integration):** Overpass API, Weather API 등 외부 데이터 연동 및 비동기 처리 최적화
+* **위치 기반 서비스 (LBS Engineering):** Google Maps API를 활용한 지도 UI 커스터마이징 및 위치 기반 검색 로직 구현
+* **네이티브 기능 제어 (Device Features):** 모바일 디바이스의 스토리지 접근, 이미지 공유 등 네이티브 기능 연동
+* **배포 파이프라인 (Deployment):** Android APK 빌드 최적화 및 실제 디바이스 배포를 통한 릴리즈 경험
+
+또한, **BMW YIDP 2025 공모전**에서 팀 내 유일한 개발자로 참여하여 **Top 10 (장려상)**에 선정되는 성과를 거두었습니다. 제한된 리소스와 시간 안에서 핵심 기능을 우선순위화하여 안정적으로 구현해내며, **"실제로 작동하는 결과물"**을 만들어내는 개발 감각을 입증했습니다.
+
+현재는 이러한 경험을 바탕으로 **Android Native (Kotlin)** 생태계로 기술 스택을 확장하고 있습니다. 특히 **AI 개발 도구**를 적극 활용하여 학습 속도와 생산성을 극대화하되, 최종 코드의 품질과 유지보수성은 엄격하게 검증하며 **"빠르지만 단단한 엔지니어링"**을 지향합니다.
+
+저는 다음과 같은 가치를 최우선으로 둡니다.
+* **Shipping:** 99%의 개발보다 100%의 배포를 지향합니다.
+* **Execution:** 복잡한 문제를 기능 단위로 세분화하여 빠르게 실행하고 개선합니다.
+* **Reliability:** 엣지 케이스와 예외 처리를 깊이 고민하여 신뢰할 수 있는 소프트웨어를 만듭니다.
+
+**"직접 부딪혀 완성해보는 것이 최고의 배움"**이라는 신념으로, 앞으로도 의미 있는 서비스를 만들며 기술적으로나 개인적으로 성장하고 싶습니다.
+
+프론트엔드 및 모바일 앱 개발 관련 인턴십, 프로젝트 협업 논의는 언제든 환영합니다. 편하게 연락 주세요!
