@@ -37,25 +37,26 @@
   type: time_table
   contents:
     - title: Solo Android App Development (LBS & API)
-      institution: Team Project
+      institution: Personal Project
       year: 2024
       description:
         - title: TypeScript & Android-based Location Service App
           contents:
-            - Top 10 Selection (Participation Prize)
             - <strong>Sole Developer:</strong> Managed entire lifecycle from planning to APK deployment.
             - <strong>Tech Stack:</strong> TypeScript, Google Maps API, Overpass API, Weather API.
             - Implemented complex asynchronous data processing and native device feature integration (storage, sharing).
             - Successfully optimized build pipelines and deployed to physical devices.
-            
-    - title: BMW Car Racing Game Project
+
+    - title: BMW YIDP 2025 (Car Racing Game)
       institution: Team Project
       year: 2024
-      description
-       - title: Unity 3D-based Game
-         contents:
-           - Yes
-      
+      description:
+        - title: Unity 3D-based Game Development
+          contents:
+            - <strong>Awards:</strong> Selected as Top 10 (Participation Prize).
+            - <strong>Role:</strong> Sole Developer in a team.
+            - Developed core gameplay mechanics using Unity 3D engine.
+            - Prioritized core features under tight deadlines to deliver a stable prototype.
 
 - title: Technical Skills
   type: nested_list
