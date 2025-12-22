@@ -25,13 +25,13 @@ icon: 🎓
 # -----------------------------------------------------------------------------
 
 url: "https://heejin0316.github.io"
-baseurl: ""  
+baseurl: ""
 last_updated: true
 impressum_path: 
 back_to_top: true
 
 # -----------------------------------------------------------------------------
-# Social Integration (통계 및 아이콘 연동)
+# Social Integration
 # -----------------------------------------------------------------------------
 
 github_username: heejin0316
@@ -42,12 +42,12 @@ linkedin_username: heejinjeong
 # -----------------------------------------------------------------------------
 
 repo_theme_light: forest
-repo_theme_dark: forest  #또는 dark 쓰기 
+repo_theme_dark: forest
 
 repo_trophies:
   enabled: true
-  theme_light: flat       
-  theme_dark: gitdimmed   
+  theme_light: flat
+  theme_dark: gitdimmed
   
 # -----------------------------------------------------------------------------
 # Layout Settings
@@ -93,7 +93,7 @@ related_blog_posts:
 # -----------------------------------------------------------------------------
 # Comments (Giscus)
 # -----------------------------------------------------------------------------
-
+# 주의: repo_id와 category_id가 비어있으면 댓글 기능만 작동하지 않습니다. (사이트는 켜짐)
 giscus:
   repo: heejin0316/heejin0316.github.io
   repo_id: 
@@ -137,7 +137,7 @@ collections:
     output: true
 
 # -----------------------------------------------------------------------------
-# Jekyll settings (Do not modify unless necessary)
+# Jekyll settings
 # -----------------------------------------------------------------------------
 
 markdown: kramdown
@@ -297,7 +297,7 @@ enable_masonry: true
 enable_math: true
 enable_tooltips: false
 enable_darkmode: true
-enable_navbar_social: true # 상단바에 소셜 아이콘 표시
+enable_navbar_social: true
 enable_project_categories: true
 enable_medium_zoom: true
 enable_progressbar: true
@@ -306,7 +306,6 @@ enable_video_embedding: false
 # -----------------------------------------------------------------------------
 # Third Party Libraries
 # -----------------------------------------------------------------------------
-# 필요한 라이브러리 목록 (기본값 유지)
 
 third_party_libraries:
   download: false
